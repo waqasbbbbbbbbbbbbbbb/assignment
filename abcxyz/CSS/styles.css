@@ -1,0 +1,126 @@
+body{
+    background-color: rgb(44, 44, 65);
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.container-1{
+
+    color:white;
+   
+}
+
+
+h1{
+    color:white;
+    text-align: center;
+    width: 50%; 
+    margin: auto;
+    padding-top: 20px;
+}
+
+.aboutcompany{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    width: 50%;
+    margin: auto;
+    padding-top: 20px;
+    line-height: 2;
+
+}
+
+
+.a-box {
+  width: 300px;
+  height: 250px;
+  border: 1px solid black;
+  
+  padding: 20px 20px 10px 20px; /* top right bottom left */
+   
+    box-sizing: border-box;
+    justify-content: space-between;
+    border-radius: 20px;
+   position: relative;
+   top: 250px;
+   left: 15%;
+}
+
+
+
+  
+  
+    
+.b-box{
+
+  width: 300px;
+  height: 250px;
+  border: 1px solid black;
+   
+   padding: 20px 20px 10px 20px; /* top right bottom left */
+   display: inline-block;
+   box-sizing: border-box;
+   position: relative;
+   left:30%;
+   margin-left: 150px;
+   border-radius: 20px;
+   justify-content:  space-between;
+}
+
+
+
+
+.c-box{
+  width: 300px;
+  height: 250px;
+  border: 1px solid black;
+   
+  position: relative;
+  right:80px;
+  left:35%;
+ padding: 20px 20px 10px 20px; /* top right bottom left */
+  display: inline-block;
+  box-sizing: border-box;
+
+border-radius: 20px;
+
+  
+}
+
+
+
+
+
+
+
+ 
+
+
+.building{
+  text-align: center;
+  margin: auto;
+
+  position: relative;
+left: 50px;
+
+}
+
+
+
+
+.sustainability{
+
+margin: auto; 
+position: relative;
+left: 50px;
+
+
+}
+
+.facility management{margin: auto; 
+  position: relative;
+  left: 200px;
+  
+  }
+
+  
